@@ -10,11 +10,11 @@ All the potential mentors of the project ideas below can be found in the Slack c
 
 ## Idea: Graph workload analysis and replay
 
-This project aims to analyze real life property graph workload to understand the pattern of graph queries. Based on the trace, create high performant graph database benchmark or trace. Create multiple workload scenarios to mimic real life graph DB workload.
+This project aims to analyze real life property graph workload to understand the pattern of graph queries. Based on the trace, create high performant graph database benchmark or trace replayer. Create multiple workload scenarios to mimic real life graph DB workload.
 
 The expected outcomes of the project:
 - Report of real life graph workload analysis
-- Real life graph trace benchmark
+- Real life graph benchmark
 - Enrich benchmark scenarios
 
 Skills required:
